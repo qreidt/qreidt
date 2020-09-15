@@ -33,6 +33,6 @@ On the way, I've become a technology enthusiast who loves **UNIX**, **Design**, 
 
 Do you have any tool recommendations? Want to ask me something? Perhaps just a chat?
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/caio-r-7b079aa5/">
   <img align="left" alt="Caio Reidt's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
