@@ -12,10 +12,14 @@
 │
 ├── /bio
 │   ├── he/him - brazilian - (pt_br + en_us)
+│   ├── /web_developer
+│   │   └── since 2016
 │   ├── /computer_science_bachelor
-│   │   └── at www.unip.br
+│   │   ├── at www.unip.br
+│   │   └── since 2017
 │   ├── /data_science_mba
-│   │   └── at www.fiap.com.br
+│   │   ├── at www.fiap.com.br
+│   │   └── since 2022
 │   ├── /lead_developer
 │   │   └── at www.is3.info
 │   └── /freelancing
