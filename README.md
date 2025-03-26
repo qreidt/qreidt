@@ -22,8 +22,11 @@
 │   │   └── since 2022
 │   ├── /lead_developer
 │   │   └── at www.is3.info
-│   └── /freelancing
-│       └── at www.upwork.com
+│   └── /full_stack_developer
+│       ├── at www.docplanner.com
+│       ├── at www.pro.doctoralia.com.br
+│       ├── at www.feegowclinic.com.br
+│       └── since 2025
 │
 ├── /os
 │   ├── /windows
